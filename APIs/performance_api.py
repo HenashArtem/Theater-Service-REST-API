@@ -4,7 +4,7 @@ from utils import api_util, logger_util
 performance_api = Blueprint('performance_api', __name__)
 PERFORMANCES_FILENAME = 'performances'
 
-logger = logger_util.setup_logger('performance_logger')
+logger = logger_util.setup_logger('performance_logger', 'logs/performance.log')
 
 
 @performance_api.route('/performances', methods=['GET'])
