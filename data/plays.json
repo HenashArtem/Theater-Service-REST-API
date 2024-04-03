@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "genre": "Tragedy",
+    "duration": "2 hours"
+  },
+  {
+    "id": 2,
+    "title": "The Importance of Being Earnest",
+    "author": "Oscar Wilde",
+    "genre": "Comedy",
+    "duration": "2.5 hours"
+  },
+  {
+    "id": 3,
+    "title": "The Phantom of the Opera",
+    "author": "Andrew Lloyd Webber",
+    "genre": "Musical",
+    "duration": "3 hours"
+  }
+]

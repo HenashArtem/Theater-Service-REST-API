@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "theatre_id": 1,
+    "play_id": 1,
+    "date": "2024-04-15",
+    "time": "19:00",
+    "tickets_sold": 800,
+    "ticket_price": 25.0
+  },
+  {
+    "id": 2,
+    "theatre_id": 2,
+    "play_id": 2,
+    "date": "2024-04-20",
+    "time": "20:00",
+    "tickets_sold": 1200,
+    "ticket_price": 30.0
+  },
+  {
+    "id": 3,
+    "theatre_id": 3,
+    "play_id": 3,
+    "date": "2024-05-01",
+    "time": "18:30",
+    "tickets_sold": 600,
+    "ticket_price": 35.0
+  }
+]
